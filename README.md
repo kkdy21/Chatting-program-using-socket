@@ -1,14 +1,17 @@
 # Chatting-program-using-socket
-Multy thread, Multy process, Multy plexing chatting program
-멀티 프로세스, 플렉싱, 멀티 쓰레드를 이용한 다중접속 채팅 프로그램
-
+multi-thread, multi-process, multi-plexing chatting program
+멀티 프로세스, 멀티 플렉싱, 멀티 쓰레드를 이용한 다중접속 채팅 프로그램
 
 # 프로그램 소개 
 - 서버를 3가지 (멀티플랙싱, 멀티쓰레드, 멀티프로세스)로 각각 구현 했고 클라이언트는 멀티쓰레드로 구현한 채팅 프로그램
 
+# 주요스텍
+- Linux 
+- C++
+- vi editor
+
 # 주요기능
 - 채팅, 귓속말기능, 귓속말시 색상변경
-- 채팅방 공지 설정 기능
 - 채팅방에서 했던 채팅들을 +/-키를 이용해 로그 보는 기능
 
 # 담당파트
